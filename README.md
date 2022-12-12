@@ -2,7 +2,7 @@
 
 [![Pub](https://pub.dev/packages/confirm_connection_network)](https://pub.dev/packages/confirm_connection_network)
 
-A flutter plugin to Checking Network connection status, periodic interval or on call.
+A flutter plugin to Checking Network connection status, on call.
 
 # Usage
 
@@ -10,7 +10,7 @@ First, add `confirm_connection_network` as a dependency in your pubspec.yaml fil
 
 ```yaml
 dependencies:
-  confirm_connection_network: ^0.0.1
+  confirm_connection_network: ^0.0.5
 ```
 
 Don't forget to `flutter pub get`.
@@ -67,7 +67,8 @@ Uses NetworkMonitor, minimum required version 10.0
 
 **Demo**
 
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.q5LDRtqY30X15uQKDUjSbwHaFj%26pid%3DApi&f=1&ipt=abdab93ca4d3a15004cc103e702b2802256977af7b9cfd9b027b7107846cac4e&ipo=images "Sample Gif")
+![image](https://i.ibb.co/VH4fQy8/2022-12-12-15-03-17.jpg "Sample Image offline")
+![image](https://i.ibb.co/9wb3fST/2022-12-12-15-03-20-1.jpg "Sample Image online")
 
 ### About
 This plugin uses [NetworkCapabilities](https://developer.android.com/reference/android/net/NetworkCapabilities) for Android and [NetworkMonitor](https://developer.apple.com/documentation/network) for iOS to check for network connectivity status.

@@ -40,7 +40,7 @@
         <entry key="confirm_connection_network">
           <value>
             <list>
-              <option value="$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/confirm_connection_network-0.0.1/lib" />
+              <option value="$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/confirm_connection_network-0.0.2/lib" />
             </list>
           </value>
         </entry>
@@ -178,7 +178,7 @@
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.2.1/lib" />
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.1/lib" />
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.16.0/lib" />
-      <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/confirm_connection_network-0.0.1/lib" />
+      <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/confirm_connection_network-0.0.2/lib" />
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.5/lib" />
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.3.1/lib" />
       <root url="file://$USER_HOME$/Dev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1/lib" />
