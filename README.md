@@ -1,6 +1,9 @@
 # Flutter Checking Network connection
 
-[![Pub](https://pub.dev/packages/confirm_connection_network)](https://pub.dev/packages/confirm_connection_network)
+[![Pub](https://img.shields.io/pub/v/bloc.svg)](https://pub.dev/packages/confirm_connection_network)
+[![Pub](https://i.imgur.com/aV6DDA7.png)](https://www.buymeacoffee.com/736hassan)
+[![Pub](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/hsn9_7)
+[![Pub](https://github.com/felangel/bloc/workflows/build/badge.svg)](https://github.com/736hsn)
 
 A flutter plugin to Checking Network connection status, on call.
 
@@ -10,7 +13,7 @@ First, add `confirm_connection_network` as a dependency in your pubspec.yaml fil
 
 ```yaml
 dependencies:
-  confirm_connection_network: ^0.0.5
+  confirm_connection_network: ^0.0.8
 ```
 
 Don't forget to `flutter pub get`.
