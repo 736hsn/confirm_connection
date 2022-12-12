@@ -47,7 +47,7 @@ checkConnection()async{
  
  
 ### Examples
-Simple usage example can be found [in the example folder](example.dart).
+Simple usage example can be found [in the example folder](example/lib/main.dart).
 
 **Android**
 
@@ -62,7 +62,7 @@ Minimum SDK Version 16
 
 **iOS**
 
-Uses NetworkMonitor, minimum required version 12.0
+Uses NetworkMonitor, minimum required version 10.0
 
 
 **Demo**
