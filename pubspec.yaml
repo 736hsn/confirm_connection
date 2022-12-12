@@ -1,7 +1,7 @@
 name: confirm_connection_network
 description: A Flutter Plugin to confirm your connection network. Plugin uses NetworkCapabilities for
   Android and NetworkMonitor for iOS.
-version: 0.0.8
+version: 0.0.9
 homepage: https://github.com/736hsn/confirm_connection
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  dartdoc: ^6.1.4
+#  dartdoc: ^6.1.4
 
 
 dev_dependencies:

@@ -1,6 +1,8 @@
 import 'package:confirm_connection_network/confirm_connection_network.dart';
 import 'package:flutter/material.dart';
 
+// import package
+///import package
 void main() {
   runApp(const MyApp());
 }
@@ -32,17 +34,17 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   checkConnection() async {
     if (await ConfirmConnection.confirmConnection()) {
-      print("you are online");
       setState(() {
         status = 'you are online';
       });
       //you are online
+      ///you are online
     } else {
-      print("you are offline");
-      //you are offline
       setState(() {
         status = 'you are offline';
       });
+      //you are offline
+      ///you are offline
     }
   }
 

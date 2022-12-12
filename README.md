@@ -1,11 +1,12 @@
 # Flutter Checking Network connection
+# Powered By Hassan Tanoma
 
 [![Pub](https://img.shields.io/pub/v/bloc.svg)](https://pub.dev/packages/confirm_connection_network)
 [![Pub](https://i.imgur.com/aV6DDA7.png)](https://www.buymeacoffee.com/736hassan)
 [![Pub](https://img.shields.io/badge/chat-on%20Telegram-blue.svg)](https://t.me/hsn9_7)
 [![Pub](https://github.com/felangel/bloc/workflows/build/badge.svg)](https://github.com/736hsn)
 
-A flutter plugin to Checking Network connection status, on call.
+In this guide, we will learn how to implement the network Connectivity Status in Flutter by using the external package name confirm_connection_network. This plugin allows Flutter apps to discover network connectivity. For example, when you are connected or disconnected from wifi. this package will not tell us if we have or not internet connection. In this example, we are going to show you how to check the internet connection in Flutter. we will learn to check if the device’s internet connection is online or offline , To check the network connectivity status in a Flutter app, you can use the confirmConnection Function, which is provided by the confirm_connection_network package. Here’s an example of how you could use it:
 
 # Usage
 
@@ -13,7 +14,7 @@ First, add `confirm_connection_network` as a dependency in your pubspec.yaml fil
 
 ```yaml
 dependencies:
-  confirm_connection_network: ^0.0.8
+  confirm_connection_network: ^0.0.9
 ```
 
 Don't forget to `flutter pub get`.
